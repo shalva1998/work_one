@@ -1,0 +1,16 @@
+header{
+	background-color: red;
+	}
+nav{
+	background-color: gray;
+	}
+main{
+	padding: 50px;
+	}
+footer{
+	background-color: brown;
+	}
+article{
+	padding: 30px;
+	background-color: yellow;
+	}
